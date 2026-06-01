@@ -1,0 +1,7 @@
+interface:
+  display_name: "诉讼材料 Markdown 整理"
+  short_description: "先确认 MinerU API，再把案件材料整理成按来源和诉讼用途分类的 Markdown 材料体系。"
+  default_prompt: "帮我把这个材料目录整理成适合 AI 阅读和复核的 Markdown 案件材料。请先确认 MinerU API 配置，再转换 PDF、扫描件、Word、图片和聊天记录，生成材料清单、阅读顺序、分类目录和待人工复核标记。"
+
+policy:
+  allow_implicit_invocation: true

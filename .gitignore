@@ -1,0 +1,11 @@
+.env
+mineru.env
+*.env
+__pycache__/
+*.pyc
+_mineru_cache/
+records.json
+md诉讼材料/
+materials/
+00_材料清单.md
+01_阅读顺序.md
